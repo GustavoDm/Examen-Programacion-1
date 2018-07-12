@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1531264738 source:c:\users\liliana\desktop\examen\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+
+1531265205 c:\users\liliana\desktop\examen\empleado.h
+
+1530214182 source:c:\users\liliana\desktop\examen\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530214182 c:\users\liliana\desktop\examen\getsvalids.h
+
+1531265141 source:c:\users\liliana\desktop\examen\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531265157 c:\users\liliana\desktop\examen\arraylist.h
+
+1531265033 source:c:\users\liliana\desktop\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1531178892 c:\users\liliana\desktop\examen\parser.h
+	"ArrayList.h"
+
+1531180367 source:c:\users\liliana\desktop\examen\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1531269153 source:d:\descargas\kenji-capo-master-master\kenji-capo-master-master\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531252000 d:\descargas\kenji-capo-master-master\kenji-capo-master-master\arraylist.h
+
+1531268903 source:d:\descargas\kenji-capo-master-master\kenji-capo-master-master\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+
+1531252000 d:\descargas\kenji-capo-master-master\kenji-capo-master-master\empleado.h
+
+1531252000 source:d:\descargas\kenji-capo-master-master\kenji-capo-master-master\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1531252000 d:\descargas\kenji-capo-master-master\kenji-capo-master-master\getsvalids.h
+
+1531269395 source:d:\descargas\kenji-capo-master-master\kenji-capo-master-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1531252000 d:\descargas\kenji-capo-master-master\kenji-capo-master-master\parser.h
+	"ArrayList.h"
+
+1531268370 source:d:\descargas\kenji-capo-master-master\kenji-capo-master-master\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1531269153 source:c:\users\liliana\desktop\kenji-capo-master-master\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531252000 c:\users\liliana\desktop\kenji-capo-master-master\arraylist.h
+
+1531269835 source:c:\users\liliana\desktop\kenji-capo-master-master\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+
+1531252000 c:\users\liliana\desktop\kenji-capo-master-master\empleado.h
+
+1531252000 source:c:\users\liliana\desktop\kenji-capo-master-master\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1531252000 c:\users\liliana\desktop\kenji-capo-master-master\getsvalids.h
+
+1531269395 source:c:\users\liliana\desktop\kenji-capo-master-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1531252000 c:\users\liliana\desktop\kenji-capo-master-master\parser.h
+	"ArrayList.h"
+
+1531268370 source:c:\users\liliana\desktop\kenji-capo-master-master\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Empleado.h"
+
